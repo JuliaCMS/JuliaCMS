@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! <br> I'm Julia Mourão 🐝</h1>
 
-- 🌱 I'm a Software Development student, focused on Back-End using the .NET platform and SQL database, but I also enjoy learning about front-end development. I really like to learn new things and I'm always ready for new challenges.
+- 🌱 I'm a Software Development student, focused on Back-End using the .NET platform and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, eternal apprentice and I'm always ready for new challenges.
 - ⚡ I love reading books and watching movies, and I have a little dog called Ully 🐶.
 
 ##
