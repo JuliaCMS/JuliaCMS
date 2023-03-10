@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World! <br> I'm Julia Mourão 🐝</h1>
 
-- 🌱 I'm a Software Development student, focusing on Back-End using .NET platform and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, I'm a eternal apprentice and I'm always ready for new challenges.
+- 🌱 I'm a Software Development student, focusing on Back-End using .NET ecosystem and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, I'm a eternal apprentice and I'm always ready for new challenges.
 - ⚡ I love reading books and watching movies, and I have a dog called Ully 🐶
 
 ##
@@ -31,5 +31,4 @@
 <!--CONTATOS -->
   <a href="https://www.linkedin.com/in/julia-mourão" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://t.me/JuliaCMS"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://drive.google.com/file/d/1vp7a77zAJYgzhfpV2MXhzbDtSCCOU4Su/view?usp=share_link" target="_blank"><img src="https://img.shields.io/badge/Currículo-blueviolet?style=for-the-badge"></a>
 </div>
