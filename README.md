@@ -1,6 +1,6 @@
-<h1 align="center">Hello, World! <br> I'm Julia Mourão</h1>
+<h1 align="center">HELLO FRIEND <br> I'm Julia</h1>
 
-- 🌱 I'm a Software Development student, focusing on Back-End using .NET ecosystem and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, I'm a eternal apprentice and I'm always ready for new challenges.
+🌱 I'm a Software Development student, focusing on Back-End using .NET ecosystem and SQL database, but I also enjoy learning about front-end development. I'm passionate about the possibilities that technology brings, I'm a eternal apprentice and I'm always ready for new challenges.
 
 ##
 
