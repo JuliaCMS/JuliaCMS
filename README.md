@@ -5,8 +5,9 @@
 ##
 
 <div align="center">
-  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliaCMS&theme=tokyonight"/> 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCMS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=JuliaCMS&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>
+  <a href="https://git.io/streak-stats"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=JuliaCMS&theme=tokyonight&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaCMS&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliaCMS&theme=tokyonight"/>
 </div>
 
 ##
